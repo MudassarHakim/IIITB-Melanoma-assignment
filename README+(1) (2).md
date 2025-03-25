@@ -28,21 +28,23 @@ The implementation of class rebalancing has notably enhanced the model's perform
 
 
 ## Technologies Used
-pandas - version 2.2.2
-numpy - version 1.26.4
-matplotlib - version 3.7.1
-seaborn - version 0.13.2
-scikit-learn - version 1.5.2
-scipy - version 1.13.1
-statsmodel - 0.14.4
-scikit-learn - 1.6.1
-tensorflow - 2.18.0
-keras - 3.8.0
-Augmentor - 0.2.12
+- pandas - version 2.2.2
+- numpy - version 1.26.4
+- matplotlib - version 3.7.1
+- seaborn - version 0.13.2
+- scikit-learn - version 1.5.2
+- scipy - version 1.13.1
+- statsmodel - 0.14.4
+- scikit-learn - 1.6.1
+- tensorflow - 2.18.0
+- keras - 3.8.0
+- Augmentor - 0.2.12
 
 ## Acknowledgements
-This project was based on International Skin Imaging Collaboration (ISIC) dataset.
-
+- This project was created as a case study required for Executive PG Programme in Machine Learning & AI - IIIT, Bangalore
+- References:
+    - [Reference - International Skin Imaging Collaboration (ISIC) dataset ](https://www.isic-archive.com/)
 
 ## Contact
-Created by Kamar-p - feel free to contact me!
+- Linkedin:
+    - [Mudassar Hakim](https://www.linkedin.com/in/mudassar-ahamer-hakim-281b8b9/)
